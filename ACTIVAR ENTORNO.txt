@@ -1,0 +1,7 @@
+CREAR : python -m venv .mvenv
+
+ACTIVAR EL ENTORNO: .\.mvenv\Scripts\Activate.ps1
+
+ACTIVA EL ENTORNO LUEGO : pip install -r requirements.txt
+
+eJECUTAR : streamlit run app.py
